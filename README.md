@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Taufik Sumara</h1>
 <h3 align="center">A Passionate Software Developer.</h3>
 
+
+<img alt="Coder" align="right" width="400"
+     src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkYjEyNmYxZGMxNDljOTQ1YzFlZjI1YjU0Yzc3OGFjMDEyNmU5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on [Brilliant Classes](https://tofik-007.github.io/Brilliant-Classes-1.1/)
 
 - 🌱 I’m currently learning **kotlin,AI**
@@ -14,9 +17,6 @@
 - 📫 How to reach me **tofiksumra008@gmail.com**
 
 - ⚡ Fun fact **I don't come this far to come only this far**
-<img alt="Coder" align="right" width="400"
-     src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkYjEyNmYxZGMxNDljOTQ1YzFlZjI1YjU0Yzc3OGFjMDEyNmU5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofik-007&label=Profile%20views&color=0e75b6&style=flat" alt="tofik-007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
