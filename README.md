@@ -3,7 +3,17 @@
 <h1 align="center">Hi 👋, I'm Taufik Sumara</h1>
 <h3 align="center">A Passionate Software Developer.</h3>
 
+- 🔭 I’m currently working on [Brilliant Classes](https://tofik-007.github.io/Brilliant-Classes-1.1/)
 
+- 🌱 I’m currently learning **kotlin,AI**
+
+- 👯 I’m looking to collaborate on [SMEs](https://github.com/tofik-007/SMEs)
+
+- 💬 Ask me about **Frontend**
+
+- 📫 How to reach me **tofiksumra008@gmail.com**
+
+- ⚡ Fun fact **I don't come this far to come only this far**
 <img alt="Coder" align="right" width="400"
      src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkYjEyNmYxZGMxNDljOTQ1YzFlZjI1YjU0Yzc3OGFjMDEyNmU5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
