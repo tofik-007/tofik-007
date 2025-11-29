@@ -53,21 +53,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofik-007&" alt="tofik-007" /></p>
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofik-007&show_icons=true&locale=en" alt="tofik-007" /> </p>
-
-
-
-
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofik-007&show_icons=true&locale=en&layout=compact" alt="tofik-007" /></p>
-
