@@ -7,7 +7,7 @@
 <img alt="Coder" align="right" width="400"
      src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkYjEyNmYxZGMxNDljOTQ1YzFlZjI1YjU0Yzc3OGFjMDEyNmU5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
      
- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofik-007&label=Profile%20views&color=0e75b6&style=flat" alt="tofik-007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tofik-007&label=Profile%20views&color=0e75b6&style=flat" alt="tofik-007" /> </p>
  
 - 🔭 I’m currently working on [Brilliant Classes](https://tofik-007.github.io/Brilliant-Classes-1.1)
 
