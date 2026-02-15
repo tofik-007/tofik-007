@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **tofiksumra008@gmail.com**
+- 📫 How to reach me **taufiksumara@gmail.com**
 
 - ⚡ Fun fact **I don't come this far to come only this far**
 
