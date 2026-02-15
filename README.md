@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Taufik Sumara</h1>
-<h3 align="center">A Passionate Software Developer.</h3>
+<h3 align="center">A Passionate Soc Analyst/Support specialist.</h3>
 
 
 <img alt="Coder" align="right" width="400"
