@@ -185,7 +185,6 @@ MITRE-mapped SPL queries built for interview-ready SOC portfolio demonstrations.
 
 <div align="center">
 
-> tail -f /var/log/motivation.log
 "I don't come this far to come only this far."
 
 </div>
