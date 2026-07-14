@@ -97,7 +97,6 @@ Home lab simulating brute-force detection scenarios (SSH) across Ubuntu and Wind
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sahil-sumra-9013161b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:taufiksumara@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofik-007&label=Profile%20views&color=0e75b6&style=flat" alt="tofik-007" /> </p>
