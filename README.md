@@ -179,7 +179,6 @@ MITRE-mapped SPL queries built for interview-ready SOC portfolio demonstrations.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/taufik-sumara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="42" /></a>
-<a href="mailto:taufiksumara@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="32" width="42" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tofik-007&label=Profile%20views&color=00FF41&style=flat" alt="tofik-007" /> </p>
